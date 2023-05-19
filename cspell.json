@@ -29,7 +29,8 @@
     "yunfly",
     "kubernetes",
     "Pino",
-    "Traceparent"
+    "Traceparent",
+    "changelog"
   ],
   "ignorePaths": [
     "package.json",
